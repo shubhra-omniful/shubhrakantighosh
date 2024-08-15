@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrakantighosh&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrakantighosh" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+<!--- - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 <a href="https://shubhrakantighosh.github.io">Portfolio</a>
+<!--- - 👨‍💻 <a href="https://shubhrakantighosh.github.io">Portfolio</a>
 
-- 📫 Reach me **shubhrakantighosh1996@gmail.com**
+<!--- - 📫 Reach me **shubhrakantighosh1996@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1B3LRQRwgVE0_dP2l9i4KwwOFz4BNa7Yr/view?usp=sharing">Resume</a>
+<!--- - 📄 <a href="https://drive.google.com/file/d/1B3LRQRwgVE0_dP2l9i4KwwOFz4BNa7Yr/view?usp=sharing">Resume</a>
 
 <!--<h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
